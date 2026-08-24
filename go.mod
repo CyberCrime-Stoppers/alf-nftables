@@ -1,6 +1,6 @@
 module github.com/CyberCrime-Stoppers/alf-nftables
 
-go 1.23.0
+go 1.21
 
 require (
 	github.com/google/go-cmp v0.7.0
