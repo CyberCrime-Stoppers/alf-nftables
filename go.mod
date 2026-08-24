@@ -1,4 +1,4 @@
-module github.com/google/nftables
+module github.com/CyberCrime-Stoppers/alf-nftables
 
 go 1.23.0
 
